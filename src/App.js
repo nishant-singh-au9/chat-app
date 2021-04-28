@@ -4,7 +4,7 @@ import './App.css';
 
 
 let socket;
-const PORT = 'http://localhost:9700'
+const PORT = 'https://nishant-chat-app-backend.herokuapp.com/'
 
 
 function App() {
